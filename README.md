@@ -13,10 +13,15 @@ More to come...
 The next 3 digits are the texture code. At the moment, there's only one texture (1 for a wall)
 
 --- CONTROLS ---
+
 Up arrow : Move forward
+
 Down arrow : Move backward
+
 Right arrow : Turn right
+
 Left arrow : Turn left
+
 Left alt + right arrow or left arrow : Strafe right or left
 
 There's not collision detection at the moment.
