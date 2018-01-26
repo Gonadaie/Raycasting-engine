@@ -2,13 +2,12 @@
 A small old school style raycasting engine made with C++, SDL2.
 
 This project is far from perfect, but it was great for learning how things work.
-There are many optimizations to do.
 
-It use txt files for map loading. Each map cell is made of 4 digits, the first indicate the type of that cell :
+It use txt files for map loading. Each map cell is made of 4 digits, the first one indicates the type of that cell :
 0 - None
 1 - Wall
 
-The next 3 digits are the texture code. For the moment, there's only one texture (1 for a wall)
+The next 3 digits are the texture code. For the moment, there's only one texture (1 for a brick wall)
 
 --- CONTROLS ---
 
